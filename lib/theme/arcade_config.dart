@@ -83,6 +83,6 @@ const arcadeConfig = ArcadeConfig(
   fallDown: false,
   tip1Id: 'hexahopcookie',
   tip2Id: 'hexahopcupcake',
-  tip1Label: '💛 Buy me a cookie',
-  tip2Label: '💛 Buy me a cupcake',
+  tip1Label: '💛 Hexa Hop — Cookie tip',
+  tip2Label: '💛 Hexa Hop — Cupcake tip',
 );
